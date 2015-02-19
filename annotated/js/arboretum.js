@@ -20,6 +20,8 @@
      * highly useful event bindings that Backbone models come with.  If we were to desire to add an info pane for
      * individual trees in the future, I can set a "current_tree" attribute on this model that will render a new info
      * info view for each tree based on binding to a "change" event for this model.
+     *
+     * More info: http://backbonejs.org/#Model
      */
     var Arboretum = Backbone.Model.extend({
 
@@ -69,6 +71,8 @@
      *
      * This object extends the Underscore.js collection object, so you can use all of the same methods from
      * _.js collections on Backbone collections for data processing and aggregation.
+     *
+     * More Info: http://backbonejs.org/#Collection
      */
     var TreeCollection = Backbone.Collection.extend({
 
@@ -80,6 +84,8 @@
      *
      * This contains two primary functions, a template function to build our markup from our model attributes and a
      * render function to define the rendering behaviors of said template
+     *
+     * More Info: http://backbonejs.org/#View
      */
     var TreeMarkerView = Backbone.View.extend({
 
