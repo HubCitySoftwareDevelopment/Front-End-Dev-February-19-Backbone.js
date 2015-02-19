@@ -1,0 +1,21 @@
+.map-container {
+    position: absolute;
+    margin-top: 80px;
+    background-color: black;
+}
+
+.campus-map {
+    position: relative;
+}
+
+.map-node {
+    position: absolute;
+    left: 20%;
+    top: 40%;
+}
+
+.info-container {
+    background-color: blue;
+    padding: 20px;
+    margin-top: 80px;
+}
