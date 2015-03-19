@@ -15,10 +15,16 @@ The finalized Annotated source can be found with the 'annotated' folder.  You ca
 <h2>Dependencies used:</h2>
 
 *JavaScript:*
+
 [Backbone.js](http://www.backbonejs.org) : Our JavaScript MV* Framework
+
 [Underscore.js](http://www.underscorejs.org) : JavaScript Array and Object Management Done Right
+
 [Handlebars.js](http://www.handlebarsjs.com) : For easy JavaScript Templating
+
 [jQuery](http://www.jquery.com) : DOM Manipulation Toolkit
 
+
 *CSS:*
+
 [Bootstrap 3.1](http://www.getbootstrap.com) : Mobile First Responsive Design Framework
