@@ -11,3 +11,14 @@ Hope to see you there!
 <h2>What you need to know</h2>
 
 The finalized Annotated source can be found with the 'annotated' folder.  You can find a barebones mockup of the presentation within the 'src' folder.  The majority of the technical work done can be found in /js/arboretum.js with the actual implementation done in index.html.
+
+<h2>Dependencies used:</h2>
+
+*JavaScript:*
+[Backbone.js](http://www.backbonejs.org) : Our JavaScript MV* Framework
+[Underscore.js](http://www.underscorejs.org) : JavaScript Array and Object Management Done Right
+[Handlebars.js](http://www.handlebarsjs.com) : For easy JavaScript Templating
+[jQuery](http://www.jquery.com) : DOM Manipulation Toolkit
+
+*CSS:*
+[Bootstrap 3.1](http://www.getbootstrap.com) : Mobile First Responsive Design Framework
